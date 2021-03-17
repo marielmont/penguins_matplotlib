@@ -1,2 +1,2 @@
 # penguins_matplotlib
-A collectiom of examples of basic useful visualisations
+A collection of examples of basic useful visualisations
